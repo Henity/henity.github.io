@@ -5,5 +5,5 @@ date: 2017-09-04
 ---
 
 Well. I finally completed this. 
-- powered by [Henity](http://henity.github.com) and 
+- powered by [Henity](http://henity.github.io) and 
 I can use Markdown to author my posts.
