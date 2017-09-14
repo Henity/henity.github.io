@@ -1,2 +1,2 @@
 # henity.github.io
-a pgae where I post projects I'm working on
+a page where I post projects I'm working on
